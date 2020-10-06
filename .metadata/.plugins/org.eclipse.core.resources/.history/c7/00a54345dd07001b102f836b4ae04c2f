@@ -1,0 +1,5 @@
+package com.lgtecnologies.springboot.app.productos.models.controller;
+
+public class ProductoController {
+
+}
