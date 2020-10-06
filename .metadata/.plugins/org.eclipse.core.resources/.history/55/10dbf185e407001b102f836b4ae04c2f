@@ -1,0 +1,8 @@
+package com.lgtecnologies.springboot.app.item;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class AppConfig {
+
+}
