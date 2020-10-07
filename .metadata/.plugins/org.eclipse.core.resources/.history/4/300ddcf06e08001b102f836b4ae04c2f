@@ -1,0 +1,5 @@
+package com.lgtecnologies.springboot.app.item.service;
+
+public class ItemServiceImplement {
+
+}

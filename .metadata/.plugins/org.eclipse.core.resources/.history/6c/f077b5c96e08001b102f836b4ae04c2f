@@ -1,0 +1,11 @@
+package com.lgtecnologies.springboot.app.item.service;
+
+import com.lgtecnologies.springboot.app.productos.models.entity.Producto;
+
+public interface IItemService {
+	
+	public List<Producto> findAll();
+	
+	publis Producto findById(Long id,Integer cantidad);
+
+}

@@ -1,0 +1,9 @@
+package com.lgtecnologies.springboot.app.item.service;
+
+public interface IItemService {
+	
+	public List<Item> findAll();
+	
+	publis Item findById(Long id,Integer cantidad);
+
+}
