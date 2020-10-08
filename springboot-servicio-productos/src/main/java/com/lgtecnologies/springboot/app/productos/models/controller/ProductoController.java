@@ -30,9 +30,16 @@ public class ProductoController {
 	}
 	
 	@GetMapping("/ver/{id}")
-	public Producto listarPorId(@PathVariable Long id) {
+	public Producto listarPorId(@PathVariable Long id) throws Exception {
 		Producto producto= iproductoService.findById(id);
 		producto.setPort(Integer.parseInt(env.getProperty("local.server.port")));
+		
+//		try {
+//		Thread.sleep(2000L);
+//		}
+//		catch (InterruptedException e) {
+//		e.printStackTrace();
+//		}
 		return producto;
 		
 	}
