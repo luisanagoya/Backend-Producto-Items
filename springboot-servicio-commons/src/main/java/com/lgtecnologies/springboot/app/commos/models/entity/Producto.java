@@ -1,4 +1,4 @@
-package com.lgtecnologies.springboot.app.productos.models.entity;
+package com.lgtecnologies.springboot.app.commos.models.entity;
 
 import java.io.Serializable;
 import java.util.Date;

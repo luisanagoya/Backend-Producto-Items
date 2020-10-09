@@ -3457,3 +3457,651 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-10-08 16:32:52,831 [Worker-159: Launching springboot-servicio-item - SpringbootServicioItemApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
 2020-10-08 16:47:09,574 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-08 16:47:09,575 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-08 16:47:09,577 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-08 16:47:09,580 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-08 16:47:09,580 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-config-server\src\test\resources
+2020-10-09 09:02:31,176 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:02:31,178 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:02:31,182 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:02:31,186 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:02:31,187 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:03:50,100 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:03:50,101 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:03:50,105 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:03:50,191 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:03:50,191 [Worker-163: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:04:12,410 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:04:12,412 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:04:12,430 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:04:12,437 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:04:12,437 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:08:02,202 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:08:02,204 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:08:02,208 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:08:02,234 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:08:02,235 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:28:37,380 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:28:37,382 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:28:37,387 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:28:37,393 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:28:37,394 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:32:22,063 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:32:22,065 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:32:22,069 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:32:22,072 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:32:22,072 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:33:01,646 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:33:01,648 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:33:01,651 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:33:01,654 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:33:01,654 [Worker-185: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:33:13,214 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:33:13,216 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:33:13,219 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:33:13,224 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:33:13,225 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:35:53,402 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:35:53,404 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:35:53,408 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:35:53,411 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:35:53,411 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:36:46,240 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:36:46,244 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:36:46,249 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:36:46,253 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:36:46,253 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:43:39,318 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:43:39,320 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:43:39,335 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:43:39,341 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:43:39,341 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 09:48:09,635 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:48:09,637 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:48:09,641 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:48:09,644 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:48:09,644 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 09:49:08,912 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:49:08,914 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:49:08,918 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:49:08,920 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:49:08,921 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 09:49:12,657 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:49:12,659 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:49:12,664 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:49:12,667 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:49:12,667 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 09:58:20,276 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:58:20,279 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:58:20,282 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 09:58:20,285 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 09:58:20,286 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:00:36,145 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:00:36,147 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:00:36,150 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:00:36,154 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:00:36,154 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:02:42,474 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:02:42,476 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:02:42,479 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:02:42,482 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:02:42,482 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:05:17,400 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:05:17,402 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:05:17,405 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:05:17,408 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:05:17,408 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:06:27,498 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:06:27,501 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:06:27,504 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:06:27,507 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:06:27,507 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:08:45,358 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:08:45,360 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:08:45,364 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:08:45,368 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:08:45,368 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:10:53,271 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:10:53,273 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:10:53,276 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:10:53,279 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:10:53,279 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 10:12:10,702 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:12:10,704 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:12:10,708 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 10:12:10,710 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 10:12:10,710 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 11:48:51,725 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:48:51,727 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:48:51,731 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:48:51,766 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:48:51,767 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 11:52:00,138 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:52:00,142 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:52:00,146 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:52:00,149 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:52:00,149 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 11:59:03,868 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:59:03,872 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:59:03,877 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 11:59:03,881 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 11:59:03,881 [Worker-187: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 12:04:34,224 [Worker-184: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\pom.xml.
+2020-10-09 12:04:36,511 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/main/java
+2020-10-09 12:04:36,511 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:04:36,652 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:04:36,802 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/test/java
+2020-10-09 12:04:39,166 [Worker-184: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-10-09 12:04:39,169 [Worker-184: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-09 12:04:39,763 [Worker-184: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\pom.xml.
+2020-10-09 12:04:41,835 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/main/java
+2020-10-09 12:04:41,836 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:04:41,838 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:04:41,844 [Worker-184: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/test/java
+2020-10-09 12:04:42,655 [Worker-184: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-10-09 12:04:49,988 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:04:49,989 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:04:49,996 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:04:49,999 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:04:49,999 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:05:00,475 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:00,476 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:05:00,479 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:05:00,481 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:00,481 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:05:26,748 [Worker-222: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\pom.xml.
+2020-10-09 12:05:28,018 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:28,019 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:05:28,019 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:05:28,021 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:28,022 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:05:41,707 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:41,710 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:05:41,713 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:05:41,716 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:05:41,716 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:06:13,826 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:06:13,828 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:06:13,831 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:06:13,836 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:06:13,836 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:34:43,728 [Worker-229: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\pom.xml.
+2020-10-09 12:34:45,332 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:34:45,333 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:34:45,333 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:34:45,335 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:34:45,336 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:35:00,867 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:35:00,869 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:35:00,872 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:35:00,874 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:35:00,875 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:36:08,648 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:36:08,649 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:36:08,652 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:36:08,654 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:36:08,655 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:38:52,386 [Worker-229: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 12:39:08,293 [Worker-229: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:39:18,134 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:18,135 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:18,135 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:18,154 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:18,155 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:39:23,310 [Worker-229: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:39:23,640 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:23,642 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:39:23,646 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:39:23,654 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:23,655 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:39:26,473 [Worker-232: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 12:39:27,454 [Worker-232: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:39:30,125 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:30,126 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:30,126 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:30,129 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:30,129 [Worker-232: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:39:33,088 [Worker-233: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 12:39:33,363 [Worker-232: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:39:34,137 [Worker-233: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:39:35,739 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:35,740 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:35,740 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:39:35,742 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:39:35,743 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:41:42,218 [Worker-164: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:41:42,554 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:41:42,556 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:41:42,560 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:41:42,566 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:41:42,566 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:42:55,780 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:42:55,781 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:42:55,784 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:42:55,786 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:42:55,787 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:44:26,864 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:44:26,866 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:44:26,870 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:44:26,873 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:44:26,873 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:45:09,854 [Worker-236: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-09 12:45:10,786 [Worker-236: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 12:45:11,682 [Worker-236: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:45:12,935 [Worker-236: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-productos/src/main/java
+2020-10-09 12:45:12,935 [Worker-236: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-productos/src/main/resources
+2020-10-09 12:45:12,936 [Worker-236: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-productos/src/main/resources
+2020-10-09 12:45:12,936 [Worker-236: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-productos/src/test/java
+2020-10-09 12:45:15,997 [Worker-236: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-10-09 12:45:17,960 [Worker-236: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:45:18,265 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:45:18,266 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:45:18,268 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:45:18,274 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:45:18,274 [Worker-236: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:46:53,805 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:46:53,808 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:46:53,811 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:46:53,813 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:46:53,814 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:47:31,481 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:47:31,483 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:47:31,488 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:47:31,491 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:47:31,491 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:50:02,421 [Worker-220: Launching Executing clean in C__Cursos_Curso Microservicios con SpringBoot_springboot-servicio-productos] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos
+2020-10-09 12:50:02,423 [Worker-220: Launching Executing clean in C__Cursos_Curso Microservicios con SpringBoot_springboot-servicio-productos] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2020-10-09 12:50:14,944 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:50:14,946 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:50:14,950 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:50:14,966 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:50:14,966 [Worker-220: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:50:58,080 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-09 12:51:20,369 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-10-09 12:52:11,197 [Worker-235: Launching springboot-servicio-productos (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos
+2020-10-09 12:52:11,197 [Worker-235: Launching springboot-servicio-productos (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B  -Dstyle.color=always
+2020-10-09 12:53:41,280 [Worker-238: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2020-10-09 12:53:41,289 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:2.3.4.RELEASE
+2020-10-09 12:53:41,295 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.3.4.RELEASE
+2020-10-09 12:53:41,300 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.2.9.RELEASE
+2020-10-09 12:53:41,306 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjweaver:1.9.6
+2020-10-09 12:53:41,311 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:2.3.4.RELEASE
+2020-10-09 12:53:41,316 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.zaxxer:HikariCP:3.4.5
+2020-10-09 12:53:41,322 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.2.9.RELEASE
+2020-10-09 12:53:41,327 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.transaction:jakarta.transaction-api:1.3.3
+2020-10-09 12:53:41,333 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.persistence:jakarta.persistence-api:2.2.3
+2020-10-09 12:53:41,339 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.4.21.Final
+2020-10-09 12:53:41,346 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.1.Final
+2020-10-09 12:53:41,353 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.24.0-GA
+2020-10-09 12:53:41,359 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.10.14
+2020-10-09 12:53:41,364 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.1.3.Final
+2020-10-09 12:53:41,370 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.5.1
+2020-10-09 12:53:41,377 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.dom4j:dom4j:2.1.3
+2020-10-09 12:53:41,384 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:5.1.0.Final
+2020-10-09 12:53:41,390 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.3
+2020-10-09 12:53:41,396 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.3
+2020-10-09 12:53:41,402 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.11
+2020-10-09 12:53:41,409 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:1.2.2
+2020-10-09 12:53:41,415 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-jpa:2.3.4.RELEASE
+2020-10-09 12:53:41,421 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-commons:2.3.4.RELEASE
+2020-10-09 12:53:41,426 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-orm:5.2.9.RELEASE
+2020-10-09 12:53:41,431 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.2.9.RELEASE
+2020-10-09 12:53:41,437 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.2.9.RELEASE
+2020-10-09 12:53:41,442 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.2.9.RELEASE
+2020-10-09 12:53:41,448 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.30
+2020-10-09 12:53:41,454 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aspects:5.2.9.RELEASE
+2020-10-09 12:53:41,459 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-web:2.3.4.RELEASE
+2020-10-09 12:53:41,463 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-json:2.3.4.RELEASE
+2020-10-09 12:53:41,469 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.11.2
+2020-10-09 12:53:41,475 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.2
+2020-10-09 12:53:41,482 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.2
+2020-10-09 12:53:41,489 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.2
+2020-10-09 12:53:41,494 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:2.3.4.RELEASE
+2020-10-09 12:53:41,500 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:9.0.38
+2020-10-09 12:53:41,505 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish:jakarta.el:3.0.3
+2020-10-09 12:53:41,511 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:9.0.38
+2020-10-09 12:53:41,518 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-web:5.2.9.RELEASE
+2020-10-09 12:53:41,525 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:5.2.9.RELEASE
+2020-10-09 12:53:41,531 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.2.9.RELEASE
+2020-10-09 12:53:41,539 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.4.RELEASE
+2020-10-09 12:53:41,545 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:2.3.4.RELEASE
+2020-10-09 12:53:41,551 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:2.3.4.RELEASE
+2020-10-09 12:53:41,557 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:1.4.200
+2020-10-09 12:53:41,575 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:2.3.4.RELEASE
+2020-10-09 12:53:41,581 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:2.3.4.RELEASE
+2020-10-09 12:53:41,587 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:2.3.4.RELEASE
+2020-10-09 12:53:41,592 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jayway.jsonpath:json-path:2.4.0
+2020-10-09 12:53:41,599 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:json-smart:2.3
+2020-10-09 12:53:41,609 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:accessors-smart:1.2
+2020-10-09 12:53:41,615 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:5.0.4
+2020-10-09 12:53:41,622 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.xml.bind:jakarta.xml.bind-api:2.3.3
+2020-10-09 12:53:41,628 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.activation:jakarta.activation-api:1.2.2
+2020-10-09 12:53:41,633 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.assertj:assertj-core:3.16.1
+2020-10-09 12:53:41,640 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest:2.2
+2020-10-09 12:53:41,646 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter:5.6.2
+2020-10-09 12:53:41,651 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.6.2
+2020-10-09 12:53:41,657 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.0
+2020-10-09 12:53:41,682 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.2.0
+2020-10-09 12:53:41,688 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.6.2
+2020-10-09 12:53:41,694 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-params:5.6.2
+2020-10-09 12:53:41,702 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.6.2
+2020-10-09 12:53:41,707 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.6.2
+2020-10-09 12:53:41,713 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:3.3.3
+2020-10-09 12:53:41,721 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy-agent:1.10.14
+2020-10-09 12:53:41,726 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:2.6
+2020-10-09 12:53:41,732 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-junit-jupiter:3.3.3
+2020-10-09 12:53:41,738 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.5.0
+2020-10-09 12:53:41,744 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.vaadin.external.google:android-json:0.0.20131108.vaadin1
+2020-10-09 12:53:41,749 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.2.9.RELEASE
+2020-10-09 12:53:41,756 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.2.9.RELEASE
+2020-10-09 12:53:41,762 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.2.9.RELEASE
+2020-10-09 12:53:41,767 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xmlunit:xmlunit-core:2.7.0
+2020-10-09 12:53:41,774 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:2.3.4.RELEASE
+2020-10-09 12:53:41,779 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:2.3.4.RELEASE
+2020-10-09 12:53:41,784 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.2.3
+2020-10-09 12:53:41,789 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.2.3
+2020-10-09 12:53:41,795 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-to-slf4j:2.13.3
+2020-10-09 12:53:41,800 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.13.3
+2020-10-09 12:53:41,806 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jul-to-slf4j:1.7.30
+2020-10-09 12:53:41,811 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.annotation:jakarta.annotation-api:1.3.5
+2020-10-09 12:53:41,815 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.26
+2020-10-09 12:53:41,833 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:2.2.5.RELEASE
+2020-10-09 12:53:41,839 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:5.3.4.RELEASE
+2020-10-09 12:53:41,847 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:2.2.5.RELEASE
+2020-10-09 12:53:41,865 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-rsa:1.0.9.RELEASE
+2020-10-09 12:53:41,871 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcpkix-jdk15on:1.64
+2020-10-09 12:53:41,877 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bouncycastle:bcprov-jdk15on:1.64
+2020-10-09 12:53:41,884 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix:2.2.5.RELEASE
+2020-10-09 12:53:41,890 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.2.5.RELEASE
+2020-10-09 12:53:41,896 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.9.25
+2020-10-09 12:53:41,900 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jettison:jettison:1.3.7
+2020-10-09 12:53:41,907 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-eventbus:0.3.0
+2020-10-09 12:53:41,914 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-infix:0.3.0
+2020-10-09 12:53:41,920 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-jxpath:commons-jxpath:1.3
+2020-10-09 12:53:41,925 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.3
+2020-10-09 12:53:41,930 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.4
+2020-10-09 12:53:41,935 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2020-10-09 12:53:41,940 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.6
+2020-10-09 12:53:41,966 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math:2.2
+2020-10-09 12:53:41,972 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.archaius:archaius-core:0.7.6
+2020-10-09 12:53:41,979 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:29.0-jre
+2020-10-09 12:53:41,985 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:failureaccess:1.0.1
+2020-10-09 12:53:41,998 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:2.11.1
+2020-10-09 12:53:42,004 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.3.4
+2020-10-09 12:53:42,009 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.j2objc:j2objc-annotations:1.3
+2020-10-09 12:53:42,015 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:jsr311-api:1.1.1
+2020-10-09 12:53:42,021 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.servo:servo-core:0.12.21
+2020-10-09 12:53:42,027 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-core:1.19.1
+2020-10-09 12:53:42,032 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-client:1.19.1
+2020-10-09 12:53:42,038 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey.contribs:jersey-apache-client4:1.19.1
+2020-10-09 12:53:42,043 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.12
+2020-10-09 12:53:42,050 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.13
+2020-10-09 12:53:42,056 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.14
+2020-10-09 12:53:42,062 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2020-10-09 12:53:42,068 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2020-10-09 12:53:42,073 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.1.0
+2020-10-09 12:53:42,081 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2020-10-09 12:53:42,086 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2020-10-09 12:53:42,093 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.11.2
+2020-10-09 12:53:42,098 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.11.2
+2020-10-09 12:53:42,103 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.9.25
+2020-10-09 12:53:42,109 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:5.3.0
+2020-10-09 12:53:42,116 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:4.2
+2020-10-09 12:53:42,123 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-ribbon:2.2.5.RELEASE
+2020-10-09 12:53:42,130 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-archaius:2.2.5.RELEASE
+2020-10-09 12:53:42,137 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon:2.3.0
+2020-10-09 12:53:42,143 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-transport:2.3.0
+2020-10-09 12:53:42,148 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxnetty-contexts:0.4.9
+2020-10-09 12:53:42,156 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxnetty-servo:0.4.9
+2020-10-09 12:53:42,163 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-core:1.5.18
+2020-10-09 12:53:42,170 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hdrhistogram:HdrHistogram:2.1.9
+2020-10-09 12:53:42,176 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxnetty:0.4.9
+2020-10-09 12:53:42,199 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-core:2.3.0
+2020-10-09 12:53:42,206 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-httpclient:2.3.0
+2020-10-09 12:53:42,211 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2020-10-09 12:53:42,217 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-commons-util:0.3.0
+2020-10-09 12:53:42,224 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-loadbalancer:2.3.0
+2020-10-09 12:53:42,231 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-statistics:0.1.1
+2020-10-09 12:53:42,237 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxjava:1.3.8
+2020-10-09 12:53:42,244 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-loadbalancer:2.2.5.RELEASE
+2020-10-09 12:53:42,253 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:2.3.4.RELEASE
+2020-10-09 12:53:42,259 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:6.1.5.Final
+2020-10-09 12:53:42,265 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2020-10-09 12:53:42,273 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.3.10.RELEASE
+2020-10-09 12:53:42,280 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.3
+2020-10-09 12:53:42,285 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.addons:reactor-extra:3.3.4.RELEASE
+2020-10-09 12:53:42,291 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.3.4.RELEASE
+2020-10-09 12:53:42,297 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.2.9.RELEASE
+2020-10-09 12:53:42,303 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.stoyanr:evictor:1.0.0
+2020-10-09 12:53:42,325 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-eureka:2.3.0
+2020-10-09 12:53:42,331 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.11.1
+2020-10-09 12:53:42,337 [Worker-238: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xpp3:xpp3_min:1.1.4c
+2020-10-09 12:53:43,647 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:53:43,648 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:53:43,649 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:53:43,652 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:53:43,652 [Worker-239: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:54:05,194 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-09 12:54:06,346 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\pom.xml.
+2020-10-09 12:54:07,125 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 12:54:07,678 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:54:09,765 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/main/java
+2020-10-09 12:54:09,766 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:54:09,766 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-commons/src/main/resources
+2020-10-09 12:54:09,767 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-commons/src/test/java
+2020-10-09 12:54:11,309 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-productos/src/main/java
+2020-10-09 12:54:11,310 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-productos/src/main/resources
+2020-10-09 12:54:11,310 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-servicio-productos/src/main/resources
+2020-10-09 12:54:11,311 [Worker-220: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-servicio-productos/src/test/java
+2020-10-09 12:54:15,431 [Worker-220: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2020-10-09 12:54:16,592 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:54:16,592 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:54:16,595 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 12:54:16,598 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:54:16,598 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-commons\src\test\resources
+2020-10-09 12:54:18,622 [Worker-242: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 12:54:18,893 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:54:18,893 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:54:18,896 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 12:54:18,903 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 12:54:18,903 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 12:58:35,215 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-09 12:59:15,375 [Worker-2: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:02:11,950 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:02:11,997 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:02:12,062 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:02:12,068 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:02:12,069 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:02:39,256 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:02:39,261 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:02:39,266 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:02:39,270 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:02:39,271 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:03:04,765 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:04,768 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:04,773 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:04,777 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:04,778 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:03:24,480 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:24,483 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:24,488 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:24,496 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:24,496 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:03:52,955 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:52,960 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:52,965 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:03:52,971 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:03:52,971 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:04:28,911 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:04:28,913 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:04:28,917 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:04:28,921 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:04:28,923 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:05:04,475 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:05:04,477 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:05:04,482 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:05:04,489 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:05:04,489 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:08:19,999 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:08:20,001 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:08:20,006 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:08:20,017 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:08:20,017 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:10:44,666 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:10:44,668 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:10:44,673 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:10:44,702 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:10:44,703 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:11:00,544 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:11:00,545 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:11:00,548 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:11:00,553 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:11:00,553 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:13:21,655 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 13:13:22,983 [Worker-19: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:13:25,221 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:13:25,225 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:13:25,226 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:13:25,231 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:13:25,232 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:14:21,834 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:14:23,083 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:14:23,085 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:14:23,601 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:14:23,606 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:14:23,607 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:14:31,651 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:14:31,653 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:14:31,669 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:14:31,673 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:14:31,674 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:15:27,493 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:15:27,495 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:15:27,500 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:15:27,505 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:15:27,506 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:17:23,308 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.productos:springboot-servicio-productos:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\pom.xml.
+2020-10-09 13:17:28,900 [Worker-25: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:17:35,994 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:17:35,999 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:17:36,001 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:17:36,010 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:17:36,011 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:19:41,103 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lgtecnologies.springboot.app.item:springboot-servicio-item:0.0.1-SNAPSHOT @ C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\pom.xml.
+2020-10-09 13:19:42,790 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:19:44,287 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:19:44,287 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:19:44,305 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:19:44,309 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:19:44,310 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:19:50,357 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:19:50,704 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:19:50,706 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:19:50,720 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:19:50,733 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:19:50,734 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:22:46,623 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:22:46,628 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:22:46,641 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:22:46,647 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:22:46,649 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:23:15,587 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:23:15,589 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:23:15,592 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:23:15,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:23:15,600 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:23:47,952 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:23:47,955 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:23:47,959 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:23:47,964 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:23:47,964 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:24:31,904 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:31,907 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:31,913 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:31,919 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:31,920 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:24:40,868 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:40,870 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:40,875 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:40,884 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:40,884 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:24:48,140 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:48,143 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:48,147 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:24:48,152 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:24:48,152 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:25:02,221 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:02,224 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:02,229 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:02,463 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:02,463 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:25:11,037 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:11,039 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:11,046 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:11,053 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:11,053 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:25:25,810 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:25,815 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:25,820 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:25:25,825 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:25:25,825 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:39:58,120 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier  to /springboot-servicio-commons/target/classes
+2020-10-09 13:39:58,480 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:39:58,482 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:39:58,486 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:39:58,490 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:39:58,490 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:40:04,444 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:40:04,447 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:40:04,451 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:40:04,454 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:40:04,454 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:43:05,653 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:43:07,152 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:43:08,740 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:43:56,058 [Worker-31: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:43:57,868 [Worker-31: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:43:59,744 [Worker-31: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:46:36,774 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:46:38,282 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:46:40,455 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:46:44,902 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:46:44,905 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:46:44,910 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:46:44,913 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:46:44,913 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:49:26,340 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:49:26,359 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:49:26,364 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:49:26,372 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:49:26,372 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-productos\src\test\resources
+2020-10-09 13:49:38,681 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:49:40,314 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:49:42,275 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:51:29,296 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:51:29,298 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:51:29,304 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:51:29,311 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:51:29,311 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Cursos\Curso Microservicios con SpringBoot\springboot-servicio-item\src\test\resources
+2020-10-09 13:51:59,049 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:52:00,653 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:52:02,166 [Worker-32: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:53:37,588 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes
+2020-10-09 13:53:39,250 [Worker-27: Launching springboot-servicio-productos - SpringbootServicioProductosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/springboot-servicio-commons: com.lgtecnologies.springboot.app.commons:springboot-servicio-commons:0.0.1-SNAPSHOT with classifier null to /springboot-servicio-commons/target/classes

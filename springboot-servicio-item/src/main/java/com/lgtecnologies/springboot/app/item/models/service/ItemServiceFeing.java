@@ -9,9 +9,10 @@ import org.springframework.stereotype.Service;
 
 import com.lgtecnologies.springboot.app.item.clientes.ProductoClienteRest;
 import com.lgtecnologies.springboot.app.item.models.Item;
+import com.lgtecnologies.springboot.app.commos.models.entity.Producto;
 
 @Service("itemServiceFeing")
-@Primary 
+@Primary
 public class ItemServiceFeing implements IItemService {
 
 	@Autowired
@@ -27,6 +28,23 @@ public class ItemServiceFeing implements IItemService {
 	public Item findById(Long id, Integer cantidad) {
 
 		return new Item(clienteFeing.listarPorId(id), cantidad);
+	}
+
+	@Override
+	public Producto save(Producto producto) {
+		clienteFeing.crear(producto);
+		return null;
+	}
+
+	@Override
+	public Producto update(Producto producto, Long id) {
+
+		return clienteFeing.editar(producto, id);
+	}
+
+	@Override
+	public void delete(Long id) {
+		clienteFeing.eliminar(id);
 	}
 
 }

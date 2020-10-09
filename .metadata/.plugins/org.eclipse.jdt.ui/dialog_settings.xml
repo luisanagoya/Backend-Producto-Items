@@ -12,6 +12,8 @@
 		<item key="contextSelector.size.y" value="221"/>
 	</section>
 	<section name="quick_assist_proposal_size">
+		<item key="size.x" value="517"/>
+		<item key="size.y" value="244"/>
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>

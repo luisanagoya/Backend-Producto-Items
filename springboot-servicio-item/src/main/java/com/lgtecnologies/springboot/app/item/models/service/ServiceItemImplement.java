@@ -13,8 +13,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import com.lgtecnologies.springboot.app.commos.models.entity.Producto;
 import com.lgtecnologies.springboot.app.item.models.Item;
-import com.lgtecnologies.springboot.app.item.models.Producto;
 
 @Service("serviceItemRestTemplate")
 public class ServiceItemImplement implements IItemService {
@@ -36,6 +36,24 @@ public class ServiceItemImplement implements IItemService {
 		pathVariables.put("id", id.toString());
 		Producto producto = clienteRest.getForObject("http://localhost:8001/ver/{id}", Producto.class, pathVariables);
 		return new Item(producto,cantidad);
+	}
+
+	@Override
+	public Producto save(Producto producto) {
+
+		return null;
+	}
+
+	@Override
+	public Producto update(Producto producto, Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void delete(Long id) {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
